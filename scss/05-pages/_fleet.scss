@@ -1,0 +1,37 @@
+#section-background {
+    height: 300px;
+    animation: none;
+    .container {
+        h1 {
+            animation: none;
+        }
+
+        p {
+            animation: none;
+        }
+    }
+}
+
+.cars-no {
+    font-size: 15px;
+    color: #12151b;
+    font-family: 'ApercuMediumPro', serif;
+    padding-top: 90px;
+    padding-left: 70px;
+}
+
+.vehicle-selection {
+    font-size: 35px;
+    color: #12151b;
+    font-family: 'TSTARPRO-Headline', serif;
+    margin-top: 5px;
+    margin-bottom: 40px;
+    padding-left: 70px;
+}
+
+
+.fleet-card {
+    >div {
+        width: 300px;
+    }
+}

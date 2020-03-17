@@ -1,0 +1,91 @@
+.calendar {
+    position: absolute;
+    bottom: 0;
+
+    form {
+        display: flex;
+
+        >div {
+            position: relative;
+
+            span {
+                position: absolute;
+                top: 15px;
+                left: 15px;
+                font-family: 'ApercuMediumPro', serif;
+                font-size: 12px;
+                color: #12151b;
+            }
+        }
+    }
+}
+
+.select-css {
+    display: block;
+    font-size: 18px;
+    font-weight: bold;
+    padding-left: 12px;
+    padding-right: 30px;
+    font-family: 'ApercuMediumPro', serif;
+    color: #12151b;
+    width: 100%;
+    max-width: 100%;
+    appearance: none;
+    height: 70px;
+    background-color: #fff;
+    border: none;
+    border-right: solid 1px #eff1f4;
+    padding-top: 20px;
+}
+
+.select-css:focus {
+    border-color: #aaa;
+    box-shadow: 0 0 1px 3px rgba(59, 153, 252, .7);
+    box-shadow: 0 0 0 3px -moz-mac-focusring;
+    color: #222;
+    outline: none;
+}
+
+select::-ms-expand {
+    display: none;
+}
+
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 1px;
+    text-overflow: '';
+    cursor: pointer;
+}
+
+#where {
+    background-image: url(../img/icons/dropdown-black.svg);
+    background-repeat: no-repeat;
+    background-size: 8px;
+    background-position: 260px 40px;
+}
+
+#from {
+    background-image: url(../img/icons/dropdown-black.svg);
+    background-repeat: no-repeat;
+    background-size: 8px;
+    background-position: 200px 40px;
+}
+
+#until {
+    background-image: url(../img/icons/dropdown-black.svg);
+    background-repeat: no-repeat;
+    background-size: 8px;
+    background-position: 200px 40px;
+}
+
+.check-availability {
+    border: none;
+    background-color: #ef522e;
+    padding: 0 60px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'ApercuPro', serif;
+    color: #ffffff;
+    cursor: pointer;
+}

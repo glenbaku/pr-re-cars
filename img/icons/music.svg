@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="21px" viewBox="0 0 20 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>music</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="car" transform="translate(-245.000000, -779.000000)" stroke="#12151B" stroke-width="1.5">
+            <path d="M249.96,793.519231 L247.98,793.519231 C246.886476,793.519231 246,794.405707 246,795.499231 L246,796.259615 C246,797.773088 247.226912,799 248.740385,799 L249.24,799 C251.029403,799 252.48,797.549403 252.48,795.76 L252.48,784 C252.48,781.790861 254.270861,780 256.48,780 L264,780 L264,780 L264,795.76 C264,797.549403 262.549403,799 260.76,799 L260.260385,799 C258.746912,799 257.52,797.773088 257.52,796.259615 L257.52,795.679231 C257.52,794.486296 258.487065,793.519231 259.68,793.519231 L261.84,793.519231" id="music"></path>
+        </g>
+    </g>
+</svg>

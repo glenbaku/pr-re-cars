@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="24px" viewBox="0 0 23 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>gps</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="car" transform="translate(-245.000000, -733.000000)" stroke="#12151B" stroke-width="1.5">
+            <g id="gps" transform="translate(261.000000, 749.500000) rotate(-45.000000) translate(-261.000000, -749.500000) translate(249.000000, 740.000000)">
+                <circle id="Oval" cx="11.2" cy="3.2" r="3.2"></circle>
+                <path d="M7.2,6.4 L3.63797881e-13,6.4 L3.63797881e-13,2.4 C3.63797881e-13,1.0745166 0.690760672,-1.8189894e-13 1.54285714,-1.8189894e-13 L7.2,-1.8189894e-13 L11.2,-1.8189894e-13" id="Path"></path>
+                <path d="M16,-1.8189894e-13 L23.2,-1.8189894e-13 L23.2,4 C23.2,5.3254834 22.5092393,6.4 21.6571429,6.4 L16,6.4 L11.2,6.4" id="Path-Copy"></path>
+                <path d="M9.08284271,12.5053824 C12.1756373,12.5053824 14.6828427,9.99817699 14.6828427,6.90538239" id="Path" stroke-linecap="round" stroke-linejoin="round" transform="translate(11.882843, 9.705382) rotate(45.000000) translate(-11.882843, -9.705382) "></path>
+                <path d="M7.88284271,16.5338095 C12.3011207,16.5338095 15.8828427,12.9520875 15.8828427,8.53380951" id="Path" stroke-linecap="round" stroke-linejoin="round" transform="translate(11.882843, 12.533810) rotate(45.000000) translate(-11.882843, -12.533810) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

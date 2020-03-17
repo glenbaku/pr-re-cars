@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="30px" viewBox="0 0 16 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="car" transform="translate(-248.000000, -818.000000)" stroke="#000000" stroke-width="1.5">
+            <g id="Group-5" transform="translate(249.000000, 819.000000)">
+                <polyline id="Path-14" points="0 6.5625 14 20.5625 7 27.5625 7 17.9375"></polyline>
+                <polyline id="Path-14-Copy" transform="translate(7.000000, 10.500000) scale(1, -1) translate(-7.000000, -10.500000) " points="0 0 14 14 7 21 7 11.375"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

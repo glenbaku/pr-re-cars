@@ -1,0 +1,149 @@
+#section-2 {
+    .container {
+        padding-top: 105px;
+        padding-bottom: 92px;
+        display: flex;
+
+        h2 {
+            font-family: 'TSTARPRO-Headline', serif;
+            font-size: 35px;
+            color: #12151b;
+            padding: 0 51px;
+        }
+
+        p {
+            max-width: 383px;
+            font-family: 'ApercuMediumPro', serif;
+            font-size: 15px;
+            line-height: 1.67;
+            color: #12151b;
+        }
+    }
+}
+
+.cars-div {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.car-card {
+    flex-basis: 22%;
+    background: #ffffff;
+    padding-left: 30px;
+    margin: 4px;
+
+    img {
+        display: block;
+        margin: 0 auto;
+        width: 228px;
+        height: auto;
+    }
+
+    >div {
+        display: flex;
+        flex-wrap: wrap;
+        padding-bottom: 50px;
+        align-items: center;
+
+        
+    }
+
+}
+
+.car-name {
+    padding-top: 22px;
+    padding-bottom: 26px;
+    font-size: 21px;
+    color: #12151b;
+    font-family: 'TSTARPRO-Headline', serif;
+}
+
+.passenger-div {
+    display: flex;
+
+    span {
+        font-size: 15px;
+        color: #12151b;
+        font-family: 'ApercuPro', serif;
+    }
+}
+
+.passenger-number {
+    padding-right: 5px;
+}
+
+.passenger-icon {
+    background-image: url(../img/icons/passengers_icon.svg);
+}
+
+.icon {
+    width: 15px;
+    height: 15px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    margin-right: 10px;
+}
+
+.bags-div {
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+
+    span {
+        font-size: 15px;
+        color: #12151b;
+        font-family: 'ApercuPro', serif;
+    }
+}
+
+.fuel-div {
+    display: flex;
+    margin-top: 20px;
+
+    span {
+        font-size: 15px;
+        color: #12151b;
+        font-family: 'ApercuPro', serif;
+    }
+}
+
+.bags-number {
+    padding-right: 5px;
+}
+
+.bags-icon {
+    background-image: url(../img/icons/bags_icon.svg);
+}
+
+.fuel-icon {
+    background-image: url(../img/icons/fuel_icon.svg);
+}
+
+.price-div {
+    padding-bottom: 16px !important;
+    justify-content: space-between;
+
+    >div {
+        font-size: 12px;
+        color: #12151b;
+        font-family: 'ApercuPro', serif;
+        font-weight: bold;
+
+        span {
+            font-size: 20px;
+            color: #12151b;
+            font-family: 'TSTARPRO-Headline', serif;
+        }
+    }
+
+    a {
+        font-family: 'ApercuPro', serif;
+        font-size: 14px;
+        font-weight: bold;
+        color: #ef522e;
+        text-decoration: none;
+        padding-right: 27px;
+    }
+}

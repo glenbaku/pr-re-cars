@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="20px" viewBox="0 0 14 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>transmission</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="car" transform="translate(-251.000000, -693.000000)" stroke="#12151B" stroke-width="1.5">
+            <g id="transmission" transform="translate(252.000000, 694.000000)">
+                <line x1="6" y1="0" x2="6" y2="18" id="Path-9"></line>
+                <polyline id="Path-10" points="0 0 0 9.2 6 9.2"></polyline>
+                <line x1="6" y1="9.2" x2="11.6" y2="9.2" id="Path-11"></line>
+                <line x1="11.6" y1="-5.68295411e-15" x2="11.6" y2="18" id="Path-12"></line>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,281 @@
+@media screen and (max-width: 1245px) {
+    .container {
+        width: 90%;
+    }
+
+    .calendar {
+        right: 0;
+
+        form {
+            flex-direction: column;
+
+            >div {
+                margin-bottom: 5px;
+            }
+        }
+    }
+
+    .check-availability {
+        padding-top: 25px;
+        padding-bottom: 25px;
+        margin-bottom: 5px;
+    }
+
+    .section-2 {
+        .container {
+            justify-content: space-around;
+        }
+    }
+
+    #until,
+    #from {
+        background-position: 260px 40px;
+    }
+}
+
+@media screen and (max-width: 1074px) {
+    .footer-links {
+        a {
+            padding: 0 12px;
+            font-size: 12px;
+        }
+    }
+}
+
+@media screen and (max-width: 992px) {
+
+    header {
+        height: 100%;
+    }
+
+    .header-div {
+        height: 100%;
+    }
+
+    .toggle {
+        display: block;
+    }
+
+    .navbar {
+        ul {
+            display: none;
+            width: 100%;
+            background: #161212;
+            position: absolute;
+            left: 0px;
+            right: 0px;
+            max-height: 0;
+            top: 70px;
+
+            li {
+                display: block;
+                text-align: center;
+                padding: 10px 0;
+            }
+        }
+    }
+
+    .language-select {
+        margin: 0 auto;
+    }
+
+    .phone-number {
+        height: initial;
+        line-height: initial;
+    }
+
+    .select-items {
+        top: 30px !important;
+    }
+
+    .section-background {
+        background-size: cover;
+    }
+
+    .price-div {
+        a {
+            margin-top: 5px;
+        }
+    }
+
+    .section-background-1 {
+        >div {
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 90% !important;
+            margin: 0 auto;
+            >h1 {
+                margin: 0 auto;
+                max-width: 100% !important;
+                text-align: center;
+            }
+            >p {
+                margin: 0 auto;
+                max-width: 80% !important;
+                text-align: center;
+            }
+            div {
+                justify-content: center;
+            }
+        }
+    }
+}
+
+.active {
+    display: block !important;
+    max-height: 240px !important;
+}
+
+
+@media screen and (max-width: 854px) {
+    .section-background .container h1 {
+        padding-top: 50px;
+        text-align: center;
+    }
+
+    .section-background .container p {
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .calendar {
+        right: 50%;
+        transform: translateX(50%);
+        bottom: -100px;
+    }
+
+    #section-2 {
+        padding-top: 80px;
+        .container {
+            flex-direction: column;
+            h2 {
+                text-align: center;
+            }
+
+            p {
+                margin: 20px auto;
+                max-width: 500px;
+            }
+        }
+    }
+
+    footer {
+        height: auto;
+        .container {
+            flex-direction: column-reverse;
+            padding-bottom: 30px;
+        }
+
+        .footer-links {
+            flex-direction: column;
+            padding-top: 30px;
+            padding-bottom: 30px;
+            a {
+                font-size: 16px;
+                margin: 10px 0;
+            }
+        }
+    }
+
+    .social-networks {
+        width: 100%;
+        display: flex;
+        padding-top: 30px;
+        a {
+            margin: 0 10px;
+        }
+    }
+
+    .footer-info {
+        text-align: center;
+    }
+
+    .our-fleet {
+        padding-top: 100px !important;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .section-background .container h1 {
+        font-size: 35px;
+    }
+
+    .section-background .container p {
+        font-size: 15px;
+    }
+
+    #section-2 .container h2 {
+        padding: 0;
+        text-align: start;
+    }
+
+    #section-4 .section-background-1 > div {
+        padding-right: 0;
+    }
+}
+
+@media screen and (max-width: 321px) {
+    .section-background .container h1 {
+        font-size: 30px;
+    }
+
+    .about-button {
+        font-size: 14px;
+    }
+
+    #section-4 .section-background-1 h1 {
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width: 1224px) {
+    #car-features .container-2 {
+        flex-direction: column-reverse;
+    }
+
+    .car-model {
+        transform: none;
+        margin-top: 20px;
+    }
+}
+
+@media screen and (max-width: 748px) {
+
+    .container-2 {
+        width: 80%;
+    }
+
+    .car-image {
+        width: 280px;
+    }
+
+    .reservation-div {
+        margin-top: -160px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .reservation-div > div:nth-child(2) {
+        padding: 0 12px;
+        h3 {
+            font-size: 12px;
+        }
+    }
+    
+    #phone-number {
+        font-size: 18px !important;
+    }
+
+    #email {
+        font-size: 12px !important;
+    }
+
+    #twitter, #instagram{
+        padding-left: 15px;
+    }
+
+    #facebook {
+        padding-left: 5px;
+    }
+}

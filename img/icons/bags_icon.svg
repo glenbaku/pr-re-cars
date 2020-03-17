@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="20px" viewBox="0 0 13 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>bags_icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="homepage" transform="translate(-163.000000, -1026.000000)" stroke="#000000" stroke-width="2">
+            <g id="Group-5" transform="translate(0.000000, 784.000000)">
+                <g id="bags_icon" transform="translate(164.000000, 243.000000)">
+                    <g id="Group-3" transform="translate(0.000000, 0.407051)">
+                        <path d="M0,3.66346162 L0,14.348558 C0,15.1915889 0.526479983,15.8750004 1.17592595,15.8750004 L9.40740763,15.8750004 C10.0568536,15.8750004 10.5833336,15.1915889 10.5833336,14.348558 L10.5833336,3.66346162 L0,3.66346162 Z" id="Path" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <line x1="0" y1="3.66346162" x2="10.5833336" y2="3.66346162" id="Path" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <path d="M2.35185191,3.66346163 L2.35185191,1.40705129 C2.35185191,0.854766542 2.79956716,0.407051292 3.35185191,0.407051292 L7.23148168,0.407051292 C7.78376643,0.407051292 8.23148168,0.854766542 8.23148168,1.40705129 L8.23148168,3.66346163 L8.23148168,3.66346163" id="Path-3"></path>
+                        <line x1="1.76388893" y1="15.8750004" x2="1.76388893" y2="18.3173081" id="Path-4"></line>
+                        <line x1="8.81944465" y1="15.8750004" x2="8.81944465" y2="18.3173081" id="Path-4-Copy"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

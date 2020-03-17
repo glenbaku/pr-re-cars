@@ -1,0 +1,100 @@
+body {
+    background-color: #fbfbfc;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.section-background {
+    height: 412px;
+    background: url(../img/image_1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    animation: left_to_right 1.6s ease;
+    .container {
+        position: relative;
+        height: 100%;
+
+        h1 {
+            font-size: 45px;
+            color: #ffffff;
+            font-family: 'TSTARPRO-Headline', serif;
+            padding-top: 112px;
+            text-transform: uppercase;
+            animation: left_to_right .8s ease;
+        }
+
+        p {
+            max-width: 365px;
+            margin-top: 10px;
+            font-size: 18px;
+            line-height: 1.39;
+            color: #ffffff;
+            font-family: 'ApercuPro', serif;
+            animation: fade-in 3s ease;
+        }
+    }
+}
+
+
+#section-4 {
+    margin-top: 140px;
+    height: 591px;
+    display: flex;
+
+    .section-background-1 {
+        background: #251d1d;
+        width: 40%;
+        display: flex;
+        justify-content: flex-end;
+        >div {
+            padding-right: 20px;
+            align-items: flex-end;
+            display: flex;
+            flex-direction: column;
+            width: 330px;
+            div {
+                width: 100%;
+                display: flex;
+                align-items: flex-end;
+            }
+        }
+
+        h1 {
+            margin-top: 140px;
+            font-size: 35px;
+            color: #ffffff;
+            font-family: 'TSTARPRO-Headline', serif;
+            color: #ffffff;
+            max-width: 327px;
+        }
+
+        p {
+            max-width: 327px;
+            font-family: 'ApercuPro', serif;
+            font-size: 16px;
+            line-height: 1.56;
+            color: #ffffff;
+            margin-top: 21px;
+
+        }
+    }
+
+    .section-background-2 {
+        background: url(../img/image_2.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 60%;
+        height: 591px;
+    }
+}
+
+.policy {
+    text-decoration: none;
+    color: #ffffff;
+    font-family: 'ApercuPro', serif;
+    margin-bottom: 13px;
+    margin-left: 37px;
+}
